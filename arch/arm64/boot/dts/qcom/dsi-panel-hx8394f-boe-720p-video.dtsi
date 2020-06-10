@@ -127,6 +127,7 @@
 		qcom,mdss-night-brightness = <7 25 45 67>;
 		qcom,mdss-dsi-tx-eot-append;
         	qcom,ulps-enabled;
+		qcom,suspend-ulps-enabled;
 		qcom,panel-allow-phy-poweroff;
 	};
 };
